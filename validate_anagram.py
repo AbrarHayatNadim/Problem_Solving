@@ -7,4 +7,4 @@ def are_anagrams(s1, s2):
     return True
 
 
-print(are_anagrams('dngee', 'gaeden'))
+print(are_anagrams('danger', 'garden'))
